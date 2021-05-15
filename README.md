@@ -1,16 +1,9 @@
 # flutter_neumorphism
 
-A new Flutter project.
+This is an example Flutter application to create custom Neumorphic shapes. 
 
-## Getting Started
+![Screen Shot 2021-05-15 at 13 48 23](https://user-images.githubusercontent.com/63356401/118357731-3a199e00-b584-11eb-8424-47b3325b8b71.png)
 
-This project is a starting point for a Flutter application.
+You can find the full explanation and the tutorial in the link below.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+http://codereis.com/posts//custom-neumorphic-shapes/
